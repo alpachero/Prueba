@@ -17,6 +17,7 @@ function iniciarJuego() {
     let botonTierra = document.getElementById('boton-tierra')
     botonTierra.addEventListener('click', ataqueTierra)
 
+        // prueba
 
    ataqueEnemigo()
 }
