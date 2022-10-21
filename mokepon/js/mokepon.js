@@ -19,6 +19,8 @@ function iniciarJuego() {
 
         // prueba
 
+        // PRUEBA 2
+
    ataqueEnemigo()
 }
 
